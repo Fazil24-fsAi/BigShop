@@ -20,9 +20,36 @@ header a{
   text-decoration: none;
 }
 
+.products{
+  display: flex;
+  flex-wrap: wrap;
+justify-content: center;
+  border: 1px black;
+}
 
+.product{
+  border: 1px black;
+}
 
+.products img{
+  width: 100%;
+  max-width: 400px;
+  margin: 1rem;
+  border: 1px black;
+}
 
+.hello{
+  border: 2px black solid;
+  margin: 1rem;
+}
+
+main{
+  padding: 1rem;
+}
+
+.pp{
+  padding: 1rem;
+}
 
 
 
